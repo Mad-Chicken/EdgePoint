@@ -9,3 +9,7 @@
 
 1. Clone the repo: `git clone https://github.com/Mad-Chicken/EdgePoint.git`
 2. Enter into cmd/terminal/shell: `pip install -r requirements.txt`
+
+<h2>Includes</h2>
+
+- Search
