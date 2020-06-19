@@ -1,1 +1,2 @@
 pynput == 1.6.8
+Random-Word == 1.0.4
